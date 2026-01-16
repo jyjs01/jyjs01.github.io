@@ -1,7 +1,7 @@
 ---
-title: "[JavaScript] var, let, const 완전 정리"
-date: 2026-01-16 16:40:00 +0900
-categories: [JavaScript, Basics]
+title: "[JavaScript] var, let, const"
+date: 2026-01-16 16:40 +0900
+categories: [JavaScript]
 tags: [javascript, var, let, const, scope, hoisting]
 ---
 
