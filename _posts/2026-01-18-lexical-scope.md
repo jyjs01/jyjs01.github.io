@@ -1,7 +1,7 @@
 ---
 title: "[JavaScript] 렉시컬 스코프(Lexical Scope)란?"
 date: 2026-01-18 16:03 +0900
-categories: [Web, Frontend]
+categories: [JavaScript]
 tags: [javascript, scope, lexicalscope, closure]
 ---
 
