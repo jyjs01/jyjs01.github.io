@@ -126,6 +126,8 @@ let l = 10;
 console.log(k); // ReferenceError
 const k = 10;
 ```
+> **TDZ(Temporal Dead Zone)**: 선언은 되었지만 초기화되기 전까지 접근하면 에러가 나는 구간
+
 ---
 <br /><br />
 
@@ -136,8 +138,6 @@ const k = 10;
 | `var` | 함수 스코프 | 가능 | 가능 | 가능(초기값 `undefined`) | 낮음 |
 | `let` | 블록 스코프 | 불가 | 가능 | 가능(TDZ) | 높음 |
 | `const` | 블록 스코프 | 불가 | 불가(참조 고정) | 가능(TDZ) | 매우 높음 |
-
-> **TDZ(Temporal Dead Zone)**: 선언은 되었지만 초기화되기 전까지 접근하면 에러가 나는 구간
 
 ---
 
